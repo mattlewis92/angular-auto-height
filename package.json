@@ -1,5 +1,5 @@
 {
-  "name": "angular-auto-height",
+  "name": "@socialsignin/angular-auto-height",
   "version": "0.0.4",
   "description": "An AngularJS directive to automatically adjust the height of an element corresponding to the parent and siblings.",
   "browser": "index.js",
